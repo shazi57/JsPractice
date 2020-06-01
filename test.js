@@ -1,3 +1,3 @@
 function thisIsTheGitTest(a){
-    return undefined;
+    return a;
 }
